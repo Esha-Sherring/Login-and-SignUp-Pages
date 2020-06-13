@@ -1,0 +1,18 @@
+.heading {
+  text-align: center;
+  color: turquoise;
+  margin: 120px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 150px;
+}
+body {
+  display: -ms-flexbox;
+  display: flex;
+  padding: 40px 20px;
+  background-image: url("abstract-color-pastel-background-soft-sky-with-cloud-background-pastel-color_6529-37.jpg");
+}
+
+h1 {
+  color: black;
+  margin-left: 20px;
+}

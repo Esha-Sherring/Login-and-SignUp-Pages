@@ -1,0 +1,31 @@
+.heading
+{
+	text-align: center;
+    color:#98FB98;
+    margin: 10px auto 0 auto;
+    font-family: 'Comic Sans', cursive;
+    font-size:60px;
+}
+body
+{
+	text-align: center;
+	
+	 font-family: 'Comic Sans', cursive;
+	background-color: 	thistle;
+    padding: 5px;
+     font-size: 20px;
+    background-image: url("https://www.transparenttextures.com/patterns/crissxcross.png");
+}
+.button
+{
+background-color:#DC143C	
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
